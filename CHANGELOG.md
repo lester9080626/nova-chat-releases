@@ -4,6 +4,14 @@ All notable changes to Nova Chat are documented here, newest version first.
 
 ## [Unreleased]
 
+## [1.4.1] — Refreshed Dark Theme
+
+### Changed
+
+- **Refreshed dark theme.** Nova Chat's dark palette has refined contrast, more surface and text
+  shades, and new warning, success and accent colours, applied consistently across the chat
+  window, Manage Chats, Settings, the setup window and message dialogs.
+
 ## [1.3.0] — Reply Scrolling and Chat Bubble Fixes
 
 ### Added
