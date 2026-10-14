@@ -4,6 +4,13 @@ All notable changes to Nova Chat are documented here, newest version first.
 
 ## [Unreleased]
 
+## [1.4.3] — Speech Only Sends on Stop
+
+### Changed
+
+- **Speech only sends when the microphone is turned off.** Instead of sending each phrase at a
+  pause, everything said while the microphone is on is sent as one message once it's turned off.
+
 ## [1.4.2] — Microphone Toggle
 
 ### Added
