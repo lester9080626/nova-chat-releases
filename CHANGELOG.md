@@ -4,6 +4,23 @@ All notable changes to Nova Chat are documented here, newest version first.
 
 ## [Unreleased]
 
+## [1.4.2] — Microphone Toggle
+
+### Added
+
+- **Speech only input mode.** **Settings → Input → Speech only** never shows the message box, only
+  the microphone button, which turns listening on and off.
+- **Microphone shortcut.** Tap **⌘ Command** on its own in any app to turn the microphone on and
+  off. It can be changed or turned off in **Settings → Shortcut**.
+
+### Changed
+
+- **The microphone button turns listening on and off without changing the input mode.** In
+  **Speech**, the message box shows while the microphone is off. Whether it was on is remembered
+  for the next launch.
+- **Typing hides the microphone button.** Choose **Speech** or **Speech only** in **Settings →
+  Input** to listen.
+
 ## [1.4.1] — Refreshed Dark Theme
 
 ### Changed
